@@ -1,0 +1,15 @@
+[submodule "homework1"]
+	path = homework1
+	url = https://github.com/IamJasonBian/cs380L-project1.git
+[submodule "homework2"]
+	path = homework2
+	url = https://github.com/IamJasonBian/cs380L-project2.git
+[submodule "homework3"]
+	path = homework3
+	url = https://github.com/IamJasonBian/cs380L-project3.git
+[submodule "homework4"]
+	path = homework4
+	url = https://github.com/IamJasonBian/cs380L-project4.git
+[submodule "homework5"]
+	path = homework5
+	url = https://github.com/IamJasonBian/cs380L-project5.git
